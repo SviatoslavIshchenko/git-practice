@@ -7,5 +7,9 @@
 # git init - ініціалфзація гіта
 # git status - інформація поточного стану проекту
 # git branch -M main - пеерйменування головної гілки
+# git add main.py - додавання файлу до гіта
+# git commit -m "Initial commit" - коміт файлу (зміна) і коментар
 
-print("Hello")
+
+print("Hello Git")
+
