@@ -16,8 +16,11 @@
 # origin - посилання на репозиторій https://github.com/SviatoslavIshchenko/git-practice.git
 # git remote add origin https://github.com/SviatoslavIshchenko/git-practice.git
 # git-learning> git remote -v - підключення до сервера і отримання інформації
-# git push -u origin main
+# git push -u origin main - відправлення оновлених файлів на Гітхаб при першому відправленні
 # git pull - відправлення коду на локальний компютер
+# git push - відправлення оновлених файлів на Гітхаб
+# git diff - показати різницю між файлами в більшості на сервері
 
 print("Hello Git!!!")
+print(5+5)
 
