@@ -16,6 +16,7 @@
 # origin - посилання на репозиторій https://github.com/SviatoslavIshchenko/git-practice.git
 # git remote add origin https://github.com/SviatoslavIshchenko/git-practice.git
 # git-learning> git remote -v - підключення до сервера і отримання інформації
+# git push -u origin main
 
 print("Hello Git")
 
