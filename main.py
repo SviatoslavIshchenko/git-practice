@@ -13,8 +13,8 @@
 # git log - що відбувалося в проекті
 # git add . - додати всі файли до гіта
 # репозиторій - проект, за яким слідкує гіт
-
-
+# origin - посилання на репозиторій https://github.com/SviatoslavIshchenko/git-practice.git
+# git remote add origin https://github.com/SviatoslavIshchenko/git-practice.git
 
 print("Hello Git")
 
