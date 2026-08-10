@@ -17,6 +17,7 @@
 # git remote add origin https://github.com/SviatoslavIshchenko/git-practice.git
 # git-learning> git remote -v - підключення до сервера і отримання інформації
 # git push -u origin main
+# git pull - відправлення коду на локальний компютер
 
-print("Hello Git")
+print("Hello Git!!!")
 
