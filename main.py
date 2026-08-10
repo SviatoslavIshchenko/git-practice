@@ -15,6 +15,7 @@
 # репозиторій - проект, за яким слідкує гіт
 # origin - посилання на репозиторій https://github.com/SviatoslavIshchenko/git-practice.git
 # git remote add origin https://github.com/SviatoslavIshchenko/git-practice.git
+# git-learning> git remote -v - підключення до сервера і отримання інформації
 
 print("Hello Git")
 
