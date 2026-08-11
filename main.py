@@ -24,5 +24,5 @@
 # git switch feacher-login - переключення на гілку
 
 print("Hello Git!!!")
-print(5+5)
+print(5+5+5)
 
