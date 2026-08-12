@@ -18,12 +18,14 @@
 # git remote add origin https://github.com/SviatoslavIshchenko/git-practice.git
 # git-learning> git remote -v - підключення до сервера і отримання інформації
 # git push -u origin main - відправлення оновлених файлів на Гітхаб при першому відправленні
+# git push -u origin new - відправлення нової гілки на Гітхаб
 # git pull - відправлення коду на локальний компютер
 # git push - відправлення оновлених файлів на Гітхаб
 # git diff - показати різницю між файлами в більшості на сервері
 # git branch feacher-login - Створення нової гілки
 # git switch feacher-login - переключення на гілку
+# git-practice> git push origin --delete feacher-login - видалення гілки
 
 print("Hello Git!!!")
 
-print("Hello Git!!!")g
+print("Hello Git!!!")
